@@ -2,7 +2,8 @@ body {
     font-size: 15pt;
 }
 .image {
-  border-radius: 30%;
+  border-radius: 50%;
+  object-fit: contain;
 }
 .image-name {
   color: burlywood;
@@ -46,3 +47,6 @@ body {
   color: burlywood;
 }
 
+.nav-item{
+  margin: 10px;
+}
