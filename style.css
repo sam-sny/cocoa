@@ -1,0 +1,47 @@
+body {
+    font-size: 15pt;
+}
+.image {
+  border-radius: 30%;
+}
+.image-name {
+  color: burlywood;
+  font-weight: bold;
+  font-family: fantasy;
+}
+.image-author{
+  font-weight: lighter;
+  color: rosybrown;
+}
+.header{
+  font-size: 30px;
+  font-variant: normal;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+  
+.background2{
+  background-color: black;
+  color: white;
+}
+
+.outter{
+  position: relative;
+}
+.inner{
+  position: absolute;
+  top: 100%;
+  right: 0%;
+  bottom: 0%;
+  left:0%;
+}
+.para{
+  font-size: 15px;
+  color: antiquewhite;
+}
+.para1{
+  font-size: 25px;
+  color: white;
+}
+.burly{
+  color: burlywood;
+}
