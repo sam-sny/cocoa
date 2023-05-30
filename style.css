@@ -25,6 +25,10 @@ body {
   color: white;
 }
 
+.background3{
+  background-color: #cc9966;
+}
+
 .outter{
   position: relative;
 }
@@ -49,4 +53,28 @@ body {
 
 .nav-item{
   margin: 10px;
+}
+
+.foot{
+  color: antiquewhite;
+  text-align: right;
+  justify-content: space-evenly;
+}
+.header2{
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+.csc{
+ font-size: 15px;
+}
+.foot2{
+  text-align: right;
+}
+.coll{
+  background-color: black;
+  text-align: center;
+  color:white;
+  font-weight: lighter;
+  font-size: 12px;
 }
