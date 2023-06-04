@@ -82,3 +82,9 @@ body {
 .container-pad{
   margin-top: 97px;
 }
+
+@media (min-width: 992px) {
+  .navbar-nav {
+    flex-direction: row;
+  }
+}
