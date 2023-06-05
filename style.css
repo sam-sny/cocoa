@@ -78,13 +78,23 @@ body {
   font-weight: lighter;
   font-size: 12px;
 }
-
+/*140px 75vh #674833*/
 .container-pad{
   margin-top: 97px;
 }
-
+.container-pad2{
+  margin-top: 97px;
+}
+.custom-box-shadow {
+  box-shadow: 0 0 5px 2px #FF0000;
+}
 @media (min-width: 992px) {
   .navbar-nav {
     flex-direction: row;
   }
+}
+
+.news{
+  color: #674833;
+  font-weight: bolder;
 }
