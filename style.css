@@ -1,5 +1,5 @@
 body {
-    font-size: 15pt;
+  font-size: 15pt;
 }
 .image {
   border-radius: 50%;
@@ -10,83 +10,83 @@ body {
   font-weight: bold;
   font-family: fantasy;
 }
-.image-author{
+.image-author {
   font-weight: lighter;
   color: rosybrown;
 }
-.header{
+.header {
   font-size: 30px;
   font-variant: normal;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
-  
-.background2{
+
+.background2 {
   background-color: black;
   color: white;
 }
 
-.background3{
+.background3 {
   background-color: #674833;
 }
 
-.outter{
+.outter {
   position: relative;
 }
-.inner{
+.inner {
   position: absolute;
   top: 100%;
   right: 0%;
   bottom: 0%;
-  left:0%;
+  left: 0%;
 }
-.para{
+.para {
   font-size: 15px;
   color: antiquewhite;
 }
-.para1{
+.para1 {
   font-size: 25px;
   color: white;
 }
-.burly{
+.burly {
   color: burlywood;
 }
 
-.nav-item{
+.nav-item {
   margin: 10px;
 }
 
-.foot{
+.foot {
   color: #d5bbaa;
   text-align: right;
   justify-content: space-evenly;
 }
-.header2{
+.header2 {
   color: white;
   font-weight: bold;
   font-size: 30px;
 }
-.csc{
- font-size: 15px;
+.csc {
+  font-size: 15px;
 }
-.foot2{
+.foot2 {
   text-align: right;
 }
-.coll{
+.coll {
   background-color: black;
   text-align: center;
-  color:white;
+  color: white;
   font-weight: lighter;
   font-size: 12px;
 }
 /*140px 75vh #674833*/
-.container-pad{
+.container-pad {
   margin-top: 97px;
 }
-.container-pad2{
+.container-pad2 {
   margin-top: 97px;
 }
 .custom-box-shadow {
-  box-shadow: 0 0 5px 2px #FF0000;
+  box-shadow: 0 0 5px 2px #ff0000;
 }
 @media (min-width: 992px) {
   .navbar-nav {
@@ -94,11 +94,11 @@ body {
   }
 }
 
-.news{
+.news {
   color: #674833;
   font-weight: bolder;
 }
 
-.mar{
+.mar {
   text-align: center;
 }
